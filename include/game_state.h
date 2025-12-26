@@ -3,7 +3,7 @@
 
 #include <stdbool.h>
 
-#define W 80
+#define W 40
 #define H 20
 #define MAX_BODY 200
 #define MAX_DIR 200
