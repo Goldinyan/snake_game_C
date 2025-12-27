@@ -5,6 +5,7 @@
 #include "setup.h"
 #include "game_state.h"
 #include "update.h"
+#include "draw.h"
 
 int main(void) {
   game_state_t state;
